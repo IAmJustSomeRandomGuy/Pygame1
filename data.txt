@@ -1,0 +1,7 @@
+easy_high_score = 0
+easy_best_combo = 0
+normal_high_score = 0
+normal_best_combo = 0
+hard_high_score = 0
+hard_best_combo = 0
+survival_high_score = 0
