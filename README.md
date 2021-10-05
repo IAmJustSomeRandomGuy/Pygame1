@@ -1,6 +1,6 @@
 # Pygame1
 #### **My first game!!!** using *pygame*
-the game is also compiled using *pyinstaller*
+the game is also compiled using *pyinstaller* (in *compiled.rar*)
 
 most of the game assets are made by me (except the **backgrounds**)
 
