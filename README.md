@@ -1,5 +1,5 @@
 # Pygame1
-##### **My first game!!!** using *pygame*
+#### **My first game!!!** using *pygame*
 the game is also compiled using *pyinstaller*
 
 most of the game assets are made by me (except the **backgrounds**)
